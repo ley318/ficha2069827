@@ -10,3 +10,8 @@ E-Mail: cabrerabuelvasd@gmail.com
 ## PERFIL PROFESIONAL
 
 tecnico de sistemas especialista en mantenimiento de computadores, redes y ofimatica. persona proactiva, responsable y con buenas relaciones interpersonales. buen manejo de los rescursos de la empresa.
+
+## ESTUDIOS REALIZADOS
+
+Bachiller academico - I. E. D. Robinson de la hoz
+Tecnico en sistemas - Sena indutrial y de aviacion
