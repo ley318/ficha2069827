@@ -7,3 +7,4 @@ Proyecto donde los aprendices cargaran sus hojas de vida
 4. [JOSE DIAZGRANADOS](jose.md)
 5. [PAULO URBINA](paulo.md)
 6. [GERSON VARGAS](GersonG29.md)
+7. [JORGE GD](jorge_GD.md)
