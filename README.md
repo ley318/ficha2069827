@@ -8,3 +8,4 @@ Proyecto donde los aprendices cargaran sus hojas de vida
 5. [JESUS VARELA](jesus.md)
 6. [PAULO URBINA](paulo.md)
 7. [GERSON VARGAS](GersonG29.md)
+8. [DANA ARCON](DANA.md)
