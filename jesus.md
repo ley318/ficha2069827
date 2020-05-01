@@ -1,4 +1,4 @@
-
+﻿
 ### HOJA DE VIDA
 
 NOMBRE: JESUS DAVID VARELA REDONDO
@@ -34,4 +34,4 @@ E-Mil: glsarmientoc@sena.edu.co
 3. Suleydis: 3004702165
 4. Manuel: 3007402063
 
-4
+
