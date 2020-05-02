@@ -12,3 +12,4 @@ Proyecto donde los aprendices cargaran sus hojas de vida
 9. [ROBERTO RIVERA](roberto.md)
 10. [SAMLY GUZMAN](samly.md)
 11. [GIRLLEYS MELENDEZ](girlleys.md)
+12. [EMERSON GONZALEZRUBIO](emerson.md)
