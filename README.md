@@ -9,3 +9,6 @@ Proyecto donde los aprendices cargaran sus hojas de vida
 6. [PAULO URBINA](paulo.md)
 7. [GERSON VARGAS](GersonG29.md)
 8. [DANA ARCON](DANA.md)
+9. [ROBERTO RIVERA](roberto.md)
+10. [SAMLY GUZMAN](samly.md)
+11. [GIRLLEYS MELENDEZ](girlleys.md)
