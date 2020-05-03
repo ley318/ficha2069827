@@ -17,3 +17,4 @@ Proyecto donde los aprendices cargaran sus hojas de vida
 14. [DANA ARCON](DANA.md)
 15. [SAMLY GUZMAN](samly.md)
 16. [EMERSON GONZALEZRUBIO](emerson.md)
+17. [Leidy Quiroga](leidy.md)
